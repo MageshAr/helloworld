@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: helloworld
+Bundle-SymbolicName: helloworld
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: helloworld.jar,
+  src/helloworld.scala
